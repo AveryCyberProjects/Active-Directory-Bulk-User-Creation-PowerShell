@@ -9,7 +9,6 @@ This Project that I set up consists of creating Virtual Machines with Oracle Vir
 <img src="https://imgur.com/jGWGGkY.png" height="50%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 
-
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b>
@@ -30,7 +29,6 @@ Set up your Homelab:
   <br>https://www.microsoft.com/en-us/software-download/windows10<br/>
   <br>https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019<br/>
   <br><br/>
-<br />
 <br />
 Install Active Directory Domain Services on the Windows Server VM using Server Manager:  <br/>
 <img src="https://i.imgur.com/TQvSZUs.png" height="80%" width="90%" alt="Disk Sanitization Steps"/>
