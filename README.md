@@ -25,7 +25,7 @@ This Project that I set up consists of creating Virtual Machines with Oracle Vir
 
 <p align="center">
 Set up your Homelab: 
-<br>First download Orcale VM, Windows 10 ISO,Server 2019 ISO, and PowerShell Script: <br/>
+<br>First download Orcale VM, Windows 10 ISO,Server 2019 ISO, and PowerShell Script (download in repo files): <br/>
   <br>https://www.virtualbox.org/wiki/Downloads<br/>
   <br>https://www.microsoft.com/en-us/software-download/windows10<br/>
   <br>https://www.microsoft.com/en-us/evalcenter/download-windows-server-2019<br/>
@@ -50,12 +50,23 @@ Set up a DHCP sever:  <br/>
 <img src="https://i.imgur.com/M4rrZFi.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
   <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open "CREATE_USERS" Script file in PowerShell ISE:  <br/>
+<img src="https://i.imgur.com/DMaLLvi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Run The Script and create the users:  <br/>
+<img src="https://i.imgur.com/8uLdkEg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+Test to see if one of the New User's can log onto a windows 10 client with their creds:  <br/>
+<img src="https://i.imgur.com/NYCWFp1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
+Finally ping to the internet to see if you have access to the internal network and outward facing network:  <br/>
+
+<img src="https://i.imgur.com/nQ5XdXp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<br/>
 </p>
 
 <!--
