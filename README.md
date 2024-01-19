@@ -1,6 +1,6 @@
 # Active Directory-Bulk User Creation w/PowerShell
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) 📺
 
 <h2>Description</h2>
 
