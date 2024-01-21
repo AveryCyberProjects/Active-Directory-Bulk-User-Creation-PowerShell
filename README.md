@@ -5,7 +5,7 @@
 <h2>Description</h2>
 
 
-This Project that I set up consists of creating Virtual Machines with Oracle Virtual Box and building a Home Lab running Active Directory Domain Services on Windows Server. The goal of this lab is to simulate a work environment by assigning IP addresses to Internal NICs, Installing RAS and NAT on a domain controller to allow clients to access internal network and outward facing internet, Setting up a DHCP sever with a set scope on a domain controller to maintain DNS and DHCP services, and Using Powershell scripts to create and manage a bulk of users in Active Directory. Below is a diagram that gives you a good idea of the order of events in this Lab.
+This Project that I set up consists of creating Virtual Machines with Oracle Virtual Box and building a Home Lab running Active Directory Domain Services on Windows Server. The goal of this lab is to simulate a work environment by assigning IP addresses to Internal NICs, Installing RAS and NAT on a domain controller to allow clients to access internal network and outward facing internet, Setting up a DHCP sever with a set scope on a domain controller to maintain DNS and DHCP services, and Using PowerShell scripts to create and manage a bulk of users in Active Directory. Below is a diagram that gives you a good idea of the order of events in this Lab.
 <img src="https://imgur.com/jGWGGkY.png" height="50%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 
